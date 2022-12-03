@@ -1,6 +1,12 @@
-# Task 2: Shopping Cart
-Rating according to value give Disable add to cart button when added to the card Remove item from cart & enable add to cart https://startbootstrap.com/previews/shop-homepage <br>
-[Demo](https://frosty-noyce-9a8b51.netlify.app/)
+Submitted and coded by Jagadeesh Kumar . S, you may send mail to my email address which is jagadeesh_2k17@proton.me, you may contribute some money to my Indian Unified Payment Interface (UPI) which is jagadeesh-kumar@ybl .
+
+https://github.com/Jagadeesh-Kumar-Initial-Is-S/Add-To-Cart
+
+# Task : Shopping Cart
+
+Task – * The rating according to value given * Disable add to cart button when added to card * Remove item from cart & enable add to cart https://startbootstrap.com/previews/shop-homepage
+
+<hr />
 
 ## Available Scripts
 
