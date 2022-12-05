@@ -27,14 +27,17 @@ function App() {
 
     
   return (
-        <div>
+    <>
+            <div class = "URL">
           <a href = 'https://github.com/Jagadeesh-Kumar-Initial-Is-S' target = '_blank' >Submitted and coded by Jagadeesh Kumar . S, you may send mail to my email address which is jagadeesh_2k17@proton.me, you may contribute some money to my Indian Unified Payment Interface (UPI) which is jagadeesh-kumar@ybl .</a>
     </div>
-    <>
     <Navigation cartItems={cartItems} />
     <Header />
     <Cart cartItems={cartItems} removeItem={removeItem} />
     <Home productdata={productdata} addItem={addItem} cartItems={cartItems} />
+        <div class = "URL">
+          <a href = 'https://github.com/Jagadeesh-Kumar-Initial-Is-S' target = '_blank' >Submitted and coded by Jagadeesh Kumar . S, you may send mail to my email address which is jagadeesh_2k17@proton.me, you may contribute some money to my Indian Unified Payment Interface (UPI) which is jagadeesh-kumar@ybl .</a>
+    </div>
     </>
   )
 }

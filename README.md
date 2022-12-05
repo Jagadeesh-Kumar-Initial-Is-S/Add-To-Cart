@@ -2,6 +2,8 @@ Submitted and coded by Jagadeesh Kumar . S, you may send mail to my email addres
 
 https://github.com/Jagadeesh-Kumar-Initial-Is-S/Add-To-Cart
 
+https://phenomenal-jalebi-0331a5.netlify.app/
+
 # Task : Shopping Cart
 
 Task – * The rating according to value given * Disable add to cart button when added to card * Remove item from cart & enable add to cart https://startbootstrap.com/previews/shop-homepage
